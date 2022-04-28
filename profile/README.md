@@ -1,12 +1,18 @@
-## Hi there 👋
+### 1. BioSciTools Introduction
+**BioSciTools: (Bioinformatics Science Tools)**, a desktop program developed based on `Java 11`, aims to make new exploration and contribution to the development of bioinformatics, and realize data analysis and visualization in the fields of **sequence analysis**, **multimomics (transcriptomics, genomics, protein omics, metabonomics, single cell)**, **microbiology**, **clinical**, etc. The program inherits the excellent interactive components, perfect analysis function and beautiful operation interface of **HiPlot** (https://hiplot.com.cn), which I developed based `VUE.js` and `Node.js`, etc.
 
-<!--
+### 2. Meta Information
+**BioSciTools Source Code Github Repository:** **_https://github.com/BioSciTools/BioSciTools_**
 
-**Here are some ideas to get you started:**
+**BioSciTools Release Repository:** **_https://github.com/BioSciTool/BioSciTools.github.io_**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**BioSciTools Release Website:** **_https://bioscitools.github.io_**
+
+**BioSciTools New Version Download:** **_https://download.fastgit.org/benben-miao/BioSciTools-Web/releases/download/1.0.0/BioSciTools-v1.0.0.exe_**
+
+### 3. BioSciTools Usage
+Download new version from **BioSciTools Release Website** or **BioSciTools Release Repository:**.
+
+No need: `Java 11.0` environment and `R 4.20` language environment, and the sample files are stored in the examples directory.
+
+![BioSciTools CorPlot App](https://benben-miao.gitee.io/image-cloud/BioSciTools/tool_CorPlot.png)
