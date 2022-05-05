@@ -17,4 +17,4 @@ Download new version from **BioSciTools Release Website** or **BioSciTools Relea
 
 No need: `Java 11.0` environment and `R 4.20` language environment, and the sample files are stored in the examples directory.
 
-![BioSciTools CorPlot App](https://benben-miao.gitee.io/image-cloud/BioSciTools/tool_CorPlot.png)
+![BioSciTools CorPlot App](https://benben-miao.gitee.io/image-cloud/BioSciTools/BioSciTools-Home.png)
