@@ -8,7 +8,7 @@
 
 **BioSciTools Release Website:** **_https://bioscitools.github.io_**
 
-**BioSciTools-v1.0.4 Download1 AliyunDrive:** **_https://www.aliyundrive.com/s/Euk8rQpyByd_**
+**BioSciTools-v1.0.4 Download1 Fast AliyunDrive:** **_https://www.aliyundrive.com/s/Euk8rQpyByd_**
 
 **BioSciTools-v1.0.4 Download2:** **_https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.4/BioSciTools-v1.0.4.exe_**
 
