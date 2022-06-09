@@ -8,7 +8,9 @@
 
 **BioSciTools Release Website:** **_https://bioscitools.github.io_**
 
-**BioSciTools-v1.0.8 Download (Github):** **_https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.8/BioSciTools-v1.0.8.exe_**
+**BioSciTools-v1.1.2 Download1 (AliDrive):** **_https://www.aliyundrive.com/s/Defuhf7FVGw_**
+
+**BioSciTools-v1.1.2 Download2 (Github):** **_https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.1.2/BioSciTools-v1.1.2.exe_**
 
 ### 3. BioSciTools Usage
 Download new version from **BioSciTools Release Website** or **BioSciTools Release Repository:**.
