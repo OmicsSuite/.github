@@ -8,9 +8,11 @@
 
 **BioSciTools Release Website:** **_https://bioscitools.github.io_**
 
-**BioSciTools-v1.1.2 Download1 (AliDrive):** **_https://www.aliyundrive.com/s/Defuhf7FVGw_**
+**BioSciTools Update History:** **_https://mp.weixin.qq.com/mp/homepage?__biz=MzI4OTEwNzI5NA==&hid=12&sn=2b2c4f083e5e04f8496dfb6946b04e2b&scene=18#wechat_redirect_**
 
-**BioSciTools-v1.1.2 Download2 (Github):** **_https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.1.2/BioSciTools-v1.1.2.exe_**
+**BioSciTools-v1.2.3 Download1 (AliDrive):** **_https://www.aliyundrive.com/s/Defuhf7FVGw_**
+
+**BioSciTools-v1.2.3 Download2 (Github):** **_https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.1.2/BioSciTools-v1.1.2.exe_**
 
 ### 3. BioSciTools Usage
 Download new version from **BioSciTools Release Website** or **BioSciTools Release Repository:**.
