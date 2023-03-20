@@ -15,7 +15,7 @@
 **BioSciTools Download3 (GithubRelease): _https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.3.5/BioSciTools-v1.3.5.exe_**
 
 ### 3. Update History
-**BioSciTools Update History: _https://mp.weixin.qq.com/mp/homepage?__biz=MzI4OTEwNzI5NA==&hid=12&sn=2b2c4f083e5e04f8496dfb6946b04e2b&scene=18#wechat_redirect_**
+**BioSciTools Update History: _https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI4OTEwNzI5NA==&action=getalbum&album_id=2601226535738277888#wechat_redirect_**
 
 ### 4. BioSciTools Apps Overview
 ![BioSciTools Apps Overview](https://mmbiz.qpic.cn/mmbiz_png/2kzTYj03uPChs9VVPiakP6YIAfLqSIWTKj2n5KWHEsVXhep3cibA8IvyFv1ZgmiakBSIbpyxgA3ILZl7Wv04ybxPQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
