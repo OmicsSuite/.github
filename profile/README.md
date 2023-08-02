@@ -6,22 +6,20 @@
 </a>
 
 ### 2. Meta Information
-**BioSciTools Official Website: _https://bioscitools.podia.com_**
+**OmicsSuite Release Repository: _https://github.com/OmicsSuite/OmicsSuite.github.io_**
 
-**BioSciTools Release Repository: _https://github.com/BioSciTool/BioSciTools.github.io_**
+**OmicsSuite Release Website: _https://omicssuite.github.io_**
 
-**BioSciTools Release Website: _https://bioscitools.github.io_**
+**OmicsSuite Showcase Website: _https://omicssuite.podia.com_**
 
-**BioSciTools Download1 (Official): _https://bioscitools.podia.com_**
+**OmicsSuite Download1 (GithubRelease): _https://github.com/OmicsSuite/OmicsSuite.github.io/releases/download/v1.3.6/OmicsSuite-v1.3.6.exe_**
 
-**BioSciTools Download2 (AliyunDrive): _https://www.aliyundrive.com/s/Defuhf7FVGw_**
+**OmicsSuite Download2 (SourceForge): _https://sourceforge.net/projects/omicssuite-github-io/files/latest/download_**
 
-**BioSciTools Download3 (SourceForge): _https://sourceforge.net/projects/bioscitools-github-io/files/latest/download_**
-
-**BioSciTools Download4 (GithubRelease): _https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.3.5/BioSciTools-v1.3.5.exe_**
+**OmicsSuite Download3 (AliyunDrive): _https://www.aliyundrive.com/s/Defuhf7FVGw_**
 
 ### 3. Update History
-**BioSciTools Update History: _https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI4OTEwNzI5NA==&action=getalbum&album_id=2601226535738277888#wechat_redirect_**
+**OmicsSuite Update History: _https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI4OTEwNzI5NA==&action=getalbum&album_id=2601226535738277888#wechat_redirect_**
 
-### 4. BioSciTools Apps Overview
-![BioSciTools Apps Overview](https://mmbiz.qpic.cn/mmbiz_png/2kzTYj03uPChs9VVPiakP6YIAfLqSIWTKj2n5KWHEsVXhep3cibA8IvyFv1ZgmiakBSIbpyxgA3ILZl7Wv04ybxPQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+### 4. OmicsSuite Apps Overview
+![OmicsSuite Apps Overview](https://mmbiz.qpic.cn/mmbiz_png/2kzTYj03uPChs9VVPiakP6YIAfLqSIWTKj2n5KWHEsVXhep3cibA8IvyFv1ZgmiakBSIbpyxgA3ILZl7Wv04ybxPQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
