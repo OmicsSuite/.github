@@ -12,7 +12,7 @@
 
 **OmicsSuite Showcase Website: _https://omicssuite.podia.com_**
 
-**OmicsSuite Download1 (GithubRelease): _https://github.com/OmicsSuite/OmicsSuite.github.io/releases/download/v1.3.6/OmicsSuite-v1.3.6.exe_**
+**OmicsSuite Download1 (GithubRelease): _https://github.com/OmicsSuite/OmicsSuite.github.io/releases/download/v1.3.8/OmicsSuite-v1.3.8.exe_**
 
 **OmicsSuite Download2 (SourceForge): _https://sourceforge.net/projects/omicssuite-github-io/files/latest/download_**
 
